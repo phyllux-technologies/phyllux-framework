@@ -1,4 +1,5 @@
-# 🚀 Getting Started with Solaris Framework
+GETTING_STARTED.md
+# 🚀 Getting Started with Phyllux Framework
 
 **Your complete guide to protecting your invention in under 2 hours**
 
@@ -56,13 +57,13 @@ Let's do this! 💪
 ### Option A: Clone with Git (if you know Git)
 
 ```bash
-git clone https://github.com/[USERNAME]/solaris-framework.git
-cd solaris-framework
+git clone https://github.com/phibronotchi-beep/phyllux-framework.git
+cd phyllux-framework
 ```
 
 ### Option B: Download ZIP (easier)
 
-1. Go to https://github.com/[USERNAME]/solaris-framework
+1. Go to https://github.com/phibronotchi-beep/phyllux-framework
 2. Click green "Code" button
 3. Click "Download ZIP"
 4. Unzip to your computer
@@ -93,8 +94,8 @@ cd your-invention-name
 # Initialize Git
 git init
 
-# Copy all templates from Solaris Framework
-cp /path/to/solaris-framework/TEMPLATES/* .
+# Copy all templates from Phyllux Framework
+cp /path/to/phyllux-framework/TEMPLATES/* .
 
 # You now have blank templates ready to fill!
 ls
@@ -106,7 +107,7 @@ ls
 - PATENTS_template.md
 - COPYRIGHT_template
 - INVENTORSHIP_DECLARATION_template.md
-- SOLARIS_LICENSE_template.md
+- PHYLLUX_LICENSE_template.md
 - README_template.md
 
 ---
@@ -124,7 +125,7 @@ ls
 [YOUR LOCATION] → Edmonton, Alberta, Canada
 [YOUR EMAIL] → your.email@example.com
 [YOUR GITHUB] → @yourusername
-[TODAY'S DATE] → January 14, 2026
+[TODAY'S DATE] → January 20, 2026
 [INVENTION NAME] → My Amazing Invention
 [BRIEF DESCRIPTION] → A new type of widget that solves problem X
 ```
@@ -197,8 +198,8 @@ This is the meat! Explain:
 
 **Example:**
 ```markdown
-First disclosure: January 14, 2026
-US/Canada deadline: January 14, 2027 (12-month grace period)
+First disclosure: January 20, 2026
+US/Canada deadline: January 20, 2027 (12-month grace period)
 ```
 
 **This file tells everyone:**
@@ -256,185 +257,93 @@ Date: [TODAY'S DATE]
 
 **Why this matters:** If anyone later claims THEY invented it, this document proves YOU did it first and publicly declared it.
 
-### 3.6 Fill SOLARIS_LICENSE_template.md
+### 3.6 Fill PHYLLUX_LICENSE_template.md
 
 **What it does:** Sets up the 4-tier licensing model.
 
-**Replace throughout:**
+**Replace placeholders:**
+- [YOUR NAME]
+- [YOUR EMAIL]
+- [INVENTION NAME]
+- [DATE]
+- Customize tiers if needed (fees, royalties)
 
-```markdown
-[YOUR NAME] → Your name
-[YOUR EMAIL] → Your email
-[INVENTION NAME] → Your invention
-[YOUR GITHUB REPO] → https://github.com/yourusername/your-invention
-```
+**Core Tiers:**
+- Tier 4: Free for non-commercial
+- Tier 1: Pioneer (world-changers)
+- Tier 2: Mission-aligned
+- Tier 3: Commercial
 
-**The tiers are already set up!** You can adjust:
-- License fees (suggested: $10K-100K for Tier 2, $100K-1M for Tier 3)
-- Royalty rates (suggested: 1-3% Tier 2, 3-5% Tier 3)
-- Specific requirements
-
-**Most inventors should keep the default terms.** They're fair and proven.
+**This is the heart of Phyllux!** It makes licensing fair and easy.
 
 ### 3.7 Fill README_template.md
 
-**What it does:** This becomes your repository homepage.
+**What it does:** Creates the homepage for your invention repo.
 
 **Key sections:**
+- Project title and description
+- How to use
+- Licensing info (link to PHYLLUX_LICENSE.md)
+- Contact
 
-**Title & Description:**
-```markdown
-# [INVENTION NAME]
-> [ONE-LINE DESCRIPTION]
-
-→ Example:
-# Phyllotactic Solar Layout
-> Nature-inspired panel arrangement for 20% more energy capture
-```
-
-**Features:**
-```markdown
-- ✨ [KEY FEATURE 1]
-- ✨ [KEY FEATURE 2]
-- ✨ [KEY FEATURE 3]
-```
-
-**Quick Start:**
-```markdown
-[HOW SOMEONE CAN USE YOUR INVENTION]
-→ Installation instructions, usage examples, etc.
-```
-
-**Licensing:**
-```markdown
-This invention is available under Solaris Framework:
-- 🎓 FREE for research/education
-- 🤝 FAIR TERMS for mission-aligned orgs
-- 💼 MARKET RATES for commercial use
-
-See [SOLARIS_LICENSE.md](SOLARIS_LICENSE.md) for details.
-```
+**Make it shine!** This is what people see first on GitHub.
 
 ---
 
-## Step 4: Upload to GitHub (10 minutes)
+## Step 4: Add Your Technical Content (Optional, 10-30 minutes)
 
-### Connect to GitHub
+- Code: Add source files (.py, .cpp, etc.)
+- Diagrams: Upload images (draw.io, hand-drawn scans)
+- Data: Add datasets, spreadsheets
+- Videos: Link to YouTube (embed in README)
+
+**Commit message:** "Added technical details and examples"
+
+---
+
+## Step 5: Upload Everything to GitHub (5 minutes)
 
 ```bash
-# Link your local repo to GitHub
-git remote add origin https://github.com/yourusername/your-invention-name.git
-```
-
-### Commit Your Files
-
-```bash
-# Stage all files
+# Add everything
 git add .
 
 # Commit with meaningful message
-git commit -m "Initial disclosure under Solaris Framework
+git commit -m "Initial public disclosure under Phyllux Framework - [TODAY'S DATE]"
 
-- Establish prior art (dated [TODAY])
-- Complete technical disclosure
-- 4-tier licensing model
-- Copyright and patent rights reserved
-
-Prior art established: [TODAY'S DATE]
-Grace period deadline: [TODAY + 12 MONTHS]"
+# Add remote (replace with your repo URL)
+git remote add origin https://github.com/yourusername/your-invention-name.git
 
 # Push to GitHub
 git push -u origin main
 ```
 
-**If you get an error about "main" vs "master":**
-```bash
-git branch -M main
-git push -u origin main
-```
+**Verify:** Go to your repo URL and check files are public.
 
-### Verify It's Live
-
-1. Go to https://github.com/yourusername/your-invention-name
-2. You should see all your files!
-3. Check the commit timestamp (this is your official disclosure date)
-
-**Congrats!** 🎉 Your invention is now publicly disclosed and protected!
+**Pro Tip:** Create a GitHub Release for extra timestamp:
+- Go to Releases → Draft new release
+- Tag: v1.0.0
+- Title: "Initial Disclosure"
+- Description: "Public prior art established [DATE]"
 
 ---
 
-## Step 5: Create a Release (Optional but Recommended, 5 minutes)
+## Step 6: Backup & Archive (5 minutes)
 
-**Why:** GitHub Releases create a permanent snapshot with a DOI (Digital Object Identifier).
+**Why?** Make prior art unbreakable.
 
-**How:**
+- **Local Backup:** Copy folder to external drive
+- **Zenodo (Free DOI):** Upload ZIP to zenodo.org (permanent archive)
+- **Internet Archive:** Save repo URL to archive.org/web
 
-1. Go to your repo on GitHub
-2. Click "Releases" (right sidebar)
-3. Click "Create a new release"
-4. **Tag version:** v1.0.0
-5. **Release title:** "Initial Public Disclosure"
-6. **Description:**
-   ```markdown
-   First public disclosure of [INVENTION NAME] under Solaris Framework.
-   
-   Date: [TODAY]
-   Prior art established.
-   Grace period: 12 months for patent filing (US/Canada).
-   
-   All files are under Solaris licensing terms (4-tier model).
-   ```
-7. Click "Publish release"
-
-**Bonus:** This makes your repo citable in academic papers!
+**Extra:** Print key documents (PRIOR_ART.md, INVENTORSHIP_DECLARATION.md) and store safely.
 
 ---
 
-## Step 6: Optional Enhancements (If You Have Time)
+## Step 7: Announce Your Invention (10 minutes)
 
-### Add Zenodo DOI (Permanent Archive)
-
-1. Go to https://zenodo.org/
-2. Sign in with GitHub
-3. Enable your repository
-4. Zenodo automatically archives your releases
-5. You get a DOI badge: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)]()
-
-**Why:** Zenodo is CERN-backed permanent storage. Your work will outlive GitHub!
-
-### Add to Internet Archive
-
-1. Go to https://web.archive.org/save
-2. Enter your GitHub repo URL
-3. Click "Save Page"
-4. Your repo is now archived independently
-
-**Why:** If GitHub ever goes down, your prior art still exists!
-
-### Enable Discussions
-
-1. Go to your repo Settings
-2. Check "Discussions"
-3. This creates a community forum for your invention
-
-**Why:** Users and potential licensees can ask questions publicly.
-
----
-
-## Step 7: What Happens Next?
-
-### Immediate (Today)
-
-✅ **Prior art established** - Your disclosure date is locked in  
-✅ **Copyright active** - Your creative works are protected  
-✅ **Patent clock starts** - You have 12 months to file (US/Canada)  
-✅ **Licensing available** - Companies can inquire about terms
-
-### Short-term (This Week)
-
-- **Announce on social media** (X/Twitter, LinkedIn, Reddit)
+- **Social Media Post** (Twitter/X, LinkedIn)
   ```
-  🚀 Just disclosed my new invention under Solaris Framework!
+  🚀 Just disclosed my new invention under Phyllux Framework!
   
   [INVENTION NAME] - [ONE-LINE DESCRIPTION]
   
@@ -445,7 +354,7 @@ git push -u origin main
   
   Check it out: [GITHUB LINK]
   
-  #SolarisFramework #OpenInnovation #FairPlay
+  #PhylluxFramework #OpenInnovation #FairPlay
   ```
 
 - **Email potential partners** (companies, research labs)
@@ -458,7 +367,7 @@ git push -u origin main
   [BRIEF DESCRIPTION]
   
   Technical details: [GITHUB LINK]
-  Licensing: Solaris Framework (fair tiered model)
+  Licensing: Phyllux Framework (fair tiered model)
   
   Let me know if you'd like to discuss!
   
@@ -516,8 +425,8 @@ git push -u origin main
 
 ### ❌ Mistake 5: Forgetting Grace Period Deadline
 
-**Problem:** You disclosed January 1, 2026 but don't file patents.  
-**Fix:** Put deadline in your calendar: January 1, 2027 (US/Canada).  
+**Problem:** You disclosed January 20, 2026 but don't file patents.  
+**Fix:** Put deadline in your calendar: January 20, 2027 (US/Canada).  
 **Why it matters:** After 12 months, you CAN'T file patents anymore.
 
 ---
@@ -591,7 +500,7 @@ Before you celebrate, verify:
 - [ ] Inventorship declaration (you're the sole inventor)
 
 **Licensing Ready:**
-- [ ] Solaris 4-tier model included
+- [ ] Phyllux 4-tier model included
 - [ ] Contact email correct
 - [ ] Terms clear (fees, royalties)
 
@@ -606,7 +515,7 @@ Before you celebrate, verify:
 
 ## Next Steps
 
-**You did it!** 🎉 Your invention is now protected under Solaris Framework.
+**You did it!** 🎉 Your invention is now protected under Phyllux Framework.
 
 **What now?**
 
@@ -629,16 +538,16 @@ Before you celebrate, verify:
 ## Questions?
 
 **Framework Questions:**  
-- GitHub Issues: https://github.com/[USERNAME]/solaris-framework/issues
+- GitHub Issues: https://github.com/phibronotchi-beep/phyllux-framework/issues
 - Email: phibronotchi@gmail.com
 
 **Community:**
-- Discussions: https://github.com/[USERNAME]/solaris-framework/discussions
+- Discussions: https://github.com/phibronotchi-beep/phyllux-framework/discussions
 - Success Stories: Submit yours!
 
 ---
 
-**Welcome to the Solaris community!** 🌟
+**Welcome to the Phyllux community!** 🌟
 
 You just joined the movement for fair innovation. Thank you for:
 - Trusting this model
@@ -651,7 +560,7 @@ You just joined the movement for fair innovation. Thank you for:
 ---
 
 **Ready for the next inventor?**  
-**[→ Share this guide](https://github.com/[USERNAME]/solaris-framework)**
+**[→ Share this guide](https://github.com/phibronotchi-beep/phyllux-framework)**
 
 ---
 
