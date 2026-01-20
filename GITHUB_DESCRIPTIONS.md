@@ -1,19 +1,20 @@
+GITHUB_DESCRIPTIONS.md
 # 📝 GITHUB REPOSITORY DESCRIPTIONS
 
 ## Copy-paste these when creating your repos
 
 ---
 
-## ☀️ SOLARIS FRAMEWORK REPOSITORY
+## 🌿 PHYLLUX FRAMEWORK REPOSITORY
 
 ### **Repository Name:**
 ```
-solaris-framework
+phyllux-framework
 ```
 
 ### **Description (Short - for GitHub header):**
 ```
-☀️ Revolutionary IP Protection for Independent Inventors | Free Prior Art + Ethical Licensing | $0 Cost, Maximum Protection | Let the Light Win
+🌿 Revolutionary IP Protection for Independent Inventors | Free Prior Art + Ethical Licensing | $0 Cost, Maximum Protection | Nature's Patterns, Amplified by Light
 ```
 
 ### **Alternative Shorter Description:**
@@ -55,7 +56,7 @@ biomimetic-inventions-public
 
 ### **Updated Description (Short):**
 ```
-🌿 Nature-Inspired Innovations: PNM (Neural Interfaces) | GAFAA (Antenna Arrays) | PhiKey (Quantum-Resistant Crypto) | Protected by Solaris Framework
+🌿 Nature-Inspired Innovations: Phyllux Mesh (Neural Interfaces) | Phyllux Wave (Antenna Arrays) | Phyllux Vault (Quantum-Resistant Crypto) | Protected by Phyllux Framework
 ```
 
 ### **Alternative Description:**
@@ -77,7 +78,7 @@ innovation
 open-science
 nature-inspired
 fibonacci
-solaris-framework
+phyllux-framework
 ```
 
 ### **Website URL:**
@@ -90,16 +91,16 @@ mailto:phibronotchi@gmail.com
 
 ## 📱 SOCIAL MEDIA ANNOUNCEMENTS
 
-### **Twitter/X Post (Solaris Framework Launch):**
+### **Twitter/X Post (Phyllux Framework Launch):**
 
 ```
-🌅 Introducing the Solaris Framework ☀️
+🌿 Introducing the Phyllux Framework 🌿
 
 The broken IP system costs inventors $60K-130K in patents while trolls steal their work.
 
 Not anymore.
 
-Solaris offers:
+Phyllux offers:
 ✅ Free prior art protection
 ✅ 4-tier ethical licensing
 ✅ Community defense
@@ -110,9 +111,9 @@ Protection: Maximum
 
 Knowledge flows freely. Compensation flows fairly.
 
-🔗 github.com/phibronotchi-beep/solaris-framework
+🔗 github.com/phibronotchi-beep/phyllux-framework
 
-#Innovation #Patents #Inventors #OpenSource #Solaris
+#Innovation #Patents #Inventors #OpenSource #Phyllux
 ```
 
 ### **Twitter/X Post (Biomimetic Inventions):**
@@ -122,24 +123,24 @@ Knowledge flows freely. Compensation flows fairly.
 📡 What if pinecone spirals could optimize satellite communications?
 🔐 What if crystal geometry could defeat quantum computers?
 
-3 nature-inspired inventions, protected by the Solaris Framework.
+3 nature-inspired inventions, protected by the Phyllux Framework.
 
 Check out:
-• PNM (Neural Meshing)
-• GAFAA (Antenna Arrays)  
-• PhiKey (Quantum Crypto)
+• Phyllux Mesh (Neural Meshing)
+• Phyllux Wave (Antenna Arrays)  
+• Phyllux Vault (Quantum Crypto)
 
 🔗 github.com/phibronotchi-beep/biomimetic-inventions-public
 
 Free for research. Fair licensing for commercial use.
 
-#Biomimicry #BCI #Neuralink #Quantum #Solaris
+#Biomimicry #BCI #Neuralink #Quantum #Phyllux
 ```
 
 ### **LinkedIn Post (Professional Audience):**
 
 ```
-I'm excited to announce the Solaris Framework—a revolutionary IP protection system for independent inventors.
+I'm excited to announce the Phyllux Framework—a revolutionary IP protection system for independent inventors.
 
 THE PROBLEM:
 • Patents cost $60,000-$130,000
@@ -148,14 +149,14 @@ THE PROBLEM:
 • The system favors those with deep pockets, not good ideas
 
 THE SOLUTION:
-Solaris Framework provides:
+Phyllux Framework provides:
 • Free prior art establishment (GitHub-based, $0 cost)
 • 4-tier ethical licensing (mission-based pricing)
 • Community defense against trolls
 • Optional patent filing (your choice)
 
 MY IMPLEMENTATION:
-I've used Solaris to protect three biomimetic inventions:
+I've used Phyllux to protect three biomimetic inventions:
 1. Phyllotactic Neural Meshing (brain-computer interfaces)
 2. Golden-Angle Fractal Antenna Arrays (wireless comms)
 3. PhiKey (quantum-resistant cryptography)
@@ -167,7 +168,7 @@ THE VISION:
 Prove that knowledge-sharing + fair-compensation > patent hoarding
 Reform the broken IP system by building a better alternative
 
-Join the movement: github.com/phibronotchi-beep/solaris-framework
+Join the movement: github.com/phibronotchi-beep/phyllux-framework
 
 #IntellectualProperty #Innovation #Inventors #Patents #OpenInnovation #Biomimicry
 ```
@@ -189,7 +190,7 @@ But I also didn't want to:
 - Let patent trolls steal my ideas
 - Give up on fair compensation
 
-So I created the Solaris Framework—a complete IP protection system that costs $0 and includes:
+So I created the Phyllux Framework—a complete IP protection system that costs $0 and includes:
 
 ✅ Prior art establishment (GitHub-based, permanently timestamped)
 ✅ 4-tier ethical licensing (free for research, fair terms for commercial)
@@ -200,13 +201,13 @@ The goal: Block trolls, enable research, ensure fair compensation.
 
 I've used it to protect my own inventions and I'm offering it free to fellow inventors under CC BY-SA 4.0.
 
-Check it out: github.com/phibronotchi-beep/solaris-framework
+Check it out: github.com/phibronotchi-beep/phyllux-framework
 
 My inventions (as proof it works): github.com/phibronotchi-beep/biomimetic-inventions-public
 
 Would love feedback from other inventors who've struggled with the broken patent system.
 
-Let the light win. ☀️
+Nature's patterns, amplified by light. 🌿
 ```
 
 ---
@@ -214,11 +215,11 @@ Let the light win. ☀️
 ## 🎬 YOUTUBE/VIDEO DESCRIPTION
 
 ```
-The Solaris Framework: Revolutionary IP Protection for Inventors
+The Phyllux Framework: Revolutionary IP Protection for Inventors
 
 The patent system is broken. It costs $60,000-$130,000 to file patents, patent trolls exploit small inventors, and corporations hoard knowledge behind paywalls.
 
-The Solaris Framework fixes this by providing:
+The Phyllux Framework fixes this by providing:
 • Free prior art protection ($0 cost)
 • 4-tier ethical licensing (mission-based pricing)
 • Community defense against trolls
@@ -228,19 +229,19 @@ Cost: $0
 Protection: Maximum
 Philosophy: Knowledge flows freely, compensation flows fairly
 
-🔗 Framework: github.com/phibronotchi-beep/solaris-framework
+🔗 Framework: github.com/phibronotchi-beep/phyllux-framework
 🔗 Example: github.com/phibronotchi-beep/biomimetic-inventions-public
 📧 Contact: phibronotchi@gmail.com
 
 Timestamps:
 0:00 - The Problem (Broken IP System)
-2:30 - The Solution (Solaris Framework)
+2:30 - The Solution (Phyllux Framework)
 5:00 - How It Works (Prior Art + Licensing)
 8:00 - Real Example (Biomimetic Inventions)
 10:30 - Get Started (Step-by-Step Guide)
 13:00 - Join the Movement
 
-#Innovation #Patents #Inventors #IntellectualProperty #OpenSource #Solaris
+#Innovation #Patents #Inventors #IntellectualProperty #OpenSource #Phyllux
 ```
 
 ---
@@ -249,20 +250,20 @@ Timestamps:
 
 ```
 David Edward Sproule
-Independent Inventor | Creator of Solaris Framework
+Independent Inventor | Creator of Phyllux Framework
 Edmonton, Alberta, Canada
 
 Biomimetic Inventions:
-🧠 Phyllotactic Neural Meshing (PNM)
-📡 Golden-Angle Fractal Antenna Arrays (GAFAA)
-🔐 PhiKey Quantum-Resistant Cryptography
+🧠 Phyllotactic Neural Meshing (Phyllux Mesh)
+📡 Golden-Angle Fractal Antenna Arrays (Phyllux Wave)
+🔐 PhiKey Quantum-Resistant Cryptography (Phyllux Vault)
 
-Protected by Solaris Framework | Tier 1-3 Licensing Available
+Protected by Phyllux Framework | Tier 1-3 Licensing Available
 📧 phibronotchi@gmail.com
 🔗 github.com/phibronotchi-beep
-🌐 Solaris Framework: github.com/phibronotchi-beep/solaris-framework
+🌐 Phyllux Framework: github.com/phibronotchi-beep/phyllux-framework
 
-"Knowledge flows freely. Compensation flows fairly." ☀️
+"Knowledge flows freely. Compensation flows fairly." 🌿
 ```
 
 ---
@@ -273,27 +274,27 @@ Update your GitHub profile (github.com/phibronotchi-beep) to:
 
 ```
 🌿 Independent Inventor | Biomimicry Researcher
-☀️ Creator of Solaris Framework (IP protection for inventors)
-🧠 PNM | 📡 GAFAA | 🔐 PhiKey
+🌿 Creator of Phyllux Framework (IP protection for inventors)
+🧠 Phyllux Mesh | 📡 Phyllux Wave | 🔐 Phyllux Vault
 📍 Edmonton, Alberta, Canada
-💡 "Let the light win"
+💡 "Nature's patterns, amplified by light"
 ```
 
 And pin these repos:
-1. solaris-framework (once created)
+1. phyllux-framework (once created)
 2. biomimetic-inventions-public
 
 ---
 
 ## 💬 GITHUB DISCUSSIONS - FIRST POST
 
-**Title:** "Welcome to Solaris! Introduce yourself"
+**Title:** "Welcome to Phyllux! Introduce yourself"
 
 **Body:**
 ```
 Hey everyone!
 
-Welcome to the Solaris Framework community. This is a space for independent inventors, researchers, and anyone interested in reforming the broken IP system.
+Welcome to the Phyllux Framework community. This is a space for independent inventors, researchers, and anyone interested in reforming the broken IP system.
 
 THE MISSION:
 Prove that knowledge-sharing + fair-compensation > patent hoarding.
@@ -307,7 +308,7 @@ Inventors helping inventors. Collective defense. Shared resources.
 INTRODUCE YOURSELF:
 • What do you invent?
 • What's your biggest IP challenge?
-• How can Solaris help you?
+• How can Phyllux help you?
 • What questions do you have?
 
 No question is too basic. This is a judgment-free zone for inventors at all stages.
@@ -316,7 +317,7 @@ Let's build something better together.
 
 — David (@phibronotchi-beep)
 
-☀️ Let the light win ☀️
+🌿 Nature's patterns, amplified by light 🌿
 ```
 
 ---
@@ -328,7 +329,7 @@ If you enable GitHub Sponsors later:
 **Sponsorship Tiers:**
 
 **$5/month - Supporter**
-"Help maintain Solaris Framework documentation and community resources"
+"Help maintain Phyllux Framework documentation and community resources"
 
 **$25/month - Advocate**  
 "Support development of templates, guides, and tools for inventors"
@@ -342,7 +343,7 @@ If you enable GitHub Sponsors later:
 **Sponsor message:**
 ```
 Every dollar goes toward:
-• Maintaining Solaris Framework documentation
+• Maintaining Phyllux Framework documentation
 • Building community resources (patent agents, legal clinics)
 • Creating templates and tools for inventors
 • Funding the community defense fund
@@ -350,11 +351,11 @@ Every dollar goes toward:
 
 Together, we can reform the broken patent system.
 
-Thank you for believing in fair innovation. ☀️
+Thank you for believing in fair innovation. 🌿
 ```
 
 ---
 
 **All set! Copy-paste these as needed when setting up your repositories and promoting them.**
 
-**☀️ LET THE LIGHT WIN ☀️**
+**🌿 NATURE'S PATTERNS, AMPLIFIED BY LIGHT 🌿**
