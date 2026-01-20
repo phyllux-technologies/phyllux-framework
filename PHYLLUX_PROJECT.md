@@ -34,7 +34,7 @@ This repository establishes **permanent, timestamped, searchable prior art** for
 
 ✅ **Preserves Patent Rights (12 Months)**  
 → US/Canada grace period: Can still file patents until January 2027  
-→ Provisional patents filed: mid-February 2026  
+→ Provisional patents planned: mid-February 2026  
 → Conversion to utility patents: Optional based on funding/strategy
 
 ✅ **Enables Ethical Licensing**  
@@ -237,7 +237,7 @@ Tier 1/3: Annual check-ins, optional collaboration
 ## 🚀 NEXT STEPS FOR DAVID
 
 ### **Immediate (January 2026):**
-✅ Finalize public repo rebrand (SOLARIS → Phyllux)
+✅ Finalize public repo rebrand (legacy → Phyllux)
 ✅ Prepare provisional patent documents
 ✅ Send licensing inquiries to potential Tier 1 partners
 ✅ Establish timestamped prior art via GitHub commits
