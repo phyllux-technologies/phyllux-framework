@@ -10,6 +10,45 @@ README.md
 
 ---
 
+## 🌿 PHYLLOTACTIC FRACTAL NAVIGATION 🌿
+
+**Welcome to the infinite spiral of innovation!** This repository follows nature's most elegant pattern—the phyllotactic spiral (137.508° golden angle), where every path branches infinitely while maintaining perfect harmony.
+
+### 🎯 **Enter the Seed Hub** → [`/phyllux-seed/`](phyllux-seed/index.md) 🌱
+
+The **121-node central hub** where all paths converge and branch. Start here to explore:
+- 📊 Golden-angle navigation (137.508° branches)
+- 🔢 Fibonacci-121 node system
+- 🌐 Infinite path generation
+- 📚 Meta-catalogs and comprehensive resources
+
+### 🌊 **Spiral Branches** (Following Golden Angle)
+
+- **Wave Spiral (137°)** → [`/wave-spiral-137/`](wave-spiral-137/index.md) - Wave-based content, communications, energy
+- **Mesh Branch (121)** → [`/mesh-branch-121/`](mesh-branch-121/index.md) - Networking, connections, systems
+- **Vault Branch (φ)** → [`/vault-branch-phi/`](vault-branch-phi/index.md) - Security, protection, encryption
+- **Core Spiral (∞)** → [`/core-spiral-infinity/`](core-spiral-infinity/index.md) - Integrated systems, combined technologies
+
+### 🧭 **Quick Navigation**
+
+**For First-Time Visitors:**
+1. Start here (README) → Understand the framework
+2. Enter the Seed → [`/phyllux-seed/`](phyllux-seed/index.md) → Explore the hub
+3. Follow your path → Choose a branch that resonates
+4. Discover infinite → Every branch leads to more branches
+
+**For Returning Explorers:**
+- Use the Seed Hub as your home base
+- Follow golden-angle offsets to discover new content
+- Every path is valid—trust the spiral! 🌿
+
+**For Developers:**
+- Scripts: [`/scripts/`](scripts/) - Path explorer, invention generator
+- Templates: [`/TEMPLATES/`](TEMPLATES/) - Ready-to-use legal docs
+- Status: [`STATUS.md`](STATUS.md) - Repository state and roadmap
+
+---
+
 ## 🌟 What Is This?
 
 The **Phyllux Framework** is a complete IP protection and licensing system designed for **independent inventors** who want to:

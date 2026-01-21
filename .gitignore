@@ -1,0 +1,90 @@
+# Binary Files & Media
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.dll
+*.exe
+*.dmg
+*.pkg
+*.deb
+*.rpm
+*.so
+*.dylib
+*.a
+*.lib
+*.bin
+*.dat
+
+# Images (except small ones if needed)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.psd
+*.ai
+*.svg
+*.ico
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.bz2
+*.xz
+*.wtar.*
+
+# Audio/Video Projects
+*.reapeaks
+*.reapeaks.bak
+*.rpp
+*.rpp-bak
+
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+._*
+
+# IDE/Editor Files
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# Build Artifacts
+node_modules/
+dist/
+build/
+*.pyc
+__pycache__/
+*.class
+*.o
+*.obj
+
+# Logs
+*.log
+*.logs
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Large Data Files
+*.phd
+*.db
+*.sqlite
+*.sqlite3
+
+# Keep only essential documentation and code files
+# Markdown, text, and source code files are tracked
