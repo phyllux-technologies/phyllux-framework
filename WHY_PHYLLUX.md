@@ -157,8 +157,10 @@ Your grad student who did the work: 0%
 
 ### Principle 1: Public Disclosure as Protection
 
-**Traditional thinking:** "Keep it secret until patents filed"  
-**Phyllux approach:** "Disclose publicly FIRST, patents OPTIONAL"
+**Traditional approach:** Keep inventions secret until patents are filed  
+**Phyllux approach:** Disclose publicly first, with patents as an optional follow-up
+
+**See also:** [phyllux-seed/prior-art-strategy.md](phyllux-seed/prior-art-strategy.md) for detailed strategy, [TEMPLATES/TEMPLATE_Prior_Art.md](TEMPLATES/TEMPLATE_Prior_Art.md) for template
 
 **Why this works:**
 
@@ -189,8 +191,10 @@ Protection: Complete ✅
 
 ### Principle 2: Tiered Pricing Based on Mission and Resources
 
-**Traditional licensing:** "One price for everyone" (usually millions)  
-**Phyllux approach:** "Fair terms based on who you are and what you're doing"
+**Traditional licensing:** Single pricing structure for all licensees  
+**Phyllux approach:** Terms vary based on mission alignment and resources
+
+**See also:** [README.md#the-4-tier-licensing-model](README.md#the-4-tier-licensing-model) for overview, [phyllux-seed/](phyllux-seed/) for detailed tier documentation
 
 **Why this works:**
 
@@ -206,17 +210,17 @@ Protection: Complete ✅
 - Developing nations: Access to cutting-edge solutions
 - Everyone wins: Inventor supported, humanity advances
 
-**Tier 1 (Pioneer) - World-Changing Missions:**
-- Companies risking EVERYTHING to change civilization
-- They get BEST terms because their success = humanity's success
-- Example: SpaceX making humanity multiplanetary
-- Fair exchange: Technology for security + purpose
+**Tier 1 (Pioneer) - Civilization-Scale Missions:**
+- Organizations pursuing transformative missions
+- Terms reflect alignment with long-term human benefit
+- Example: Multi-planetary ventures, human-AI symbiosis
+- Exchange: Technology access in support of mission
 
-**Tier 3 (Commercial) - Profit-Seeking:**
-- Large corporations with billions in revenue
-- They pay market rates (it's still cheaper than developing themselves)
-- No special treatment, but no exploitation either
-- Fair compensation for valuable IP
+**Tier 3 (Commercial) - Standard Business:**
+- For-profit companies
+- Market-rate terms (typically less than internal development costs)
+- Standard commercial licensing terms
+- Fair compensation for IP use
 
 **The key insight:** Not everyone should pay the same. Mission and resources matter.
 
@@ -444,26 +448,22 @@ Student earns sustainable income, continues inventing
 
 ---
 
-## Join Us
+## Getting Started
 
-**The Phyllux Framework is more than licensing.**
+**The Phyllux Framework provides:**
+- IP protection without requiring $100K+ patents
+- Fair access to innovation for companies
+- Balance between progress and fairness
+- Coordination mechanisms for independent actors
 
-**It's a movement to prove:**
-- Inventors can be protected without $100K+ patents
-- Companies can access innovation fairly
-- Society can have both progress and fairness
-- Cooperation > competition
+**To use this framework:**
+- See [GETTING_STARTED.md](GETTING_STARTED.md) for step-by-step guide
+- Review [TEMPLATES/](TEMPLATES/) for ready-to-use documents
+- Read [FAQ.md](FAQ.md) for common questions
+- Explore [phyllux-seed/](phyllux-seed/) for detailed resources
 
-**If this resonates:**
-- Use Phyllux for your inventions
-- License fairly from others
-- Contribute to community defense
-- Help other inventors
-- Spread the model
-
-**Together, we're building a better system.**
-
-**One inventor at a time. One fair deal at a time. Until this becomes the standard.**
+**Example implementation:**  
+See [biomimetic-inventions-public](https://github.com/phibronotchi-beep/biomimetic-inventions-public) for a complete example of this framework in practice.
 
 ---
 

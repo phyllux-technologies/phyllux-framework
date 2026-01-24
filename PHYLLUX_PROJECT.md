@@ -52,32 +52,40 @@ This repository establishes **permanent, timestamped, searchable prior art** for
 
 ## 💰 LICENSING TERMS
 
-### **Tier 4: FREE (Research & Education)**
+**This project uses the Phyllux 4-Tier Licensing Model. For complete details, see:**
+- Framework overview: [README.md#the-4-tier-licensing-model](../README.md#the-4-tier-licensing-model)
+- Tier 1 (Pioneer): [phyllux-seed/tier-1-pioneer.md](../phyllux-seed/tier-1-pioneer.md)
+- Tier 2 (Mission-Aligned): [phyllux-seed/tier-2-mission.md](../phyllux-seed/tier-2-mission.md)
+- Tier 3 (Commercial): [phyllux-seed/tier-3-commercial.md](../phyllux-seed/tier-3-commercial.md)
+- Tier 4 (Free): [phyllux-seed/tier-4-free.md](../phyllux-seed/tier-4-free.md)
+- License template: [TEMPLATES/TEMPLATE_License_4Tier.md](../TEMPLATES/TEMPLATE_License_4Tier.md)
+
+### **Tier 4: Free (Research & Education)**
 **Who:** Universities, researchers, educators, hobbyists, personal projects  
 **Cost:** $0  
 **Terms:** Must cite this repository and inventor  
 **Rights:** Non-commercial use only
 
-### **Tier 1: PIONEER (World-Changing Missions)**
-**Who:** SpaceX, Neuralink, breakthrough research organizations  
-**Cost:** Minimal upfront fee ($5K-10K) + assistance with patent filing  
+### **Tier 1: Pioneer (Civilization-Scale Missions)**
+**Who:** Organizations pursuing transformative missions (e.g., multi-planetary ventures, human-AI symbiosis)  
+**Cost:** Minimal upfront fee ($5K-25K) + assistance with patent filing  
 **Royalty:** 0%  
 **Terms:** Exclusive or non-exclusive (negotiable), share learnings  
-**Why:** Accelerate civilization-scale breakthroughs
+**Rationale:** Support missions that advance civilization
 
-### **Tier 2: MISSION-ALIGNED (Serving Humanity)**
+### **Tier 2: Mission-Aligned (Serving Humanity)**
 **Who:** Clean energy, healthcare, education, humanitarian tech companies  
 **Cost:** $10K-100K (based on company size/funding)  
-**Royalty:** 1-3% of revenue from products using licensed tech  
+**Royalty:** 1-3% of revenue (tiered by revenue level)  
 **Terms:** Non-exclusive, must share improvements, ethical use only  
-**Why:** Support those solving real problems
+**Rationale:** Fair terms for organizations advancing human welfare
 
-### **Tier 3: COMMERCIAL (Standard Business)**
+### **Tier 3: Commercial (Standard Business)**
 **Who:** For-profit corporations, consumer products, general commercial use  
 **Cost:** $100K-1M (negotiable based on scale)  
 **Royalty:** 3-5% of revenue from products using licensed tech  
 **Terms:** Non-exclusive, standard commercial licensing  
-**Why:** Ensure fair compensation for commercial exploitation
+**Rationale:** Market-rate compensation for commercial use
 
 ---
 
@@ -266,17 +274,18 @@ Tier 1/3: Annual check-ins, optional collaboration
 
 **Want to protect YOUR inventions using this model?**
 
-Visit: **[github.com/phibronotchi-beep/phyllux-framework](#)**
+Visit: **[phyllux-framework repository](../README.md)**
 
 The **Phyllux Framework** provides:
-- Templates for establishing prior art (like this)
-- 4-tier licensing model (copy and customize)
-- Guides for patents, negotiation, enforcement
-- Community resources (patent agents, legal clinics)
-- Collective defense fund (coming soon)
+- Templates for establishing prior art: [TEMPLATES/TEMPLATE_Prior_Art.md](../TEMPLATES/TEMPLATE_Prior_Art.md)
+- 4-tier licensing model: [TEMPLATES/TEMPLATE_License_4Tier.md](../TEMPLATES/TEMPLATE_License_4Tier.md)
+- Getting started guide: [GETTING_STARTED.md](../GETTING_STARTED.md)
+- Licensing negotiation: [phyllux-seed/licensing-negotiation.md](../phyllux-seed/licensing-negotiation.md)
+- Prior art strategy: [phyllux-seed/prior-art-strategy.md](../phyllux-seed/prior-art-strategy.md)
+- FAQ: [FAQ.md](../FAQ.md)
 
 **Cost:** $0  
-**Protection:** Maximum  
+**Protection:** Prior art establishment via public disclosure  
 **Philosophy:** Knowledge flows freely, compensation flows fairly
 
 ---

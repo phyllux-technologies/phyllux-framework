@@ -6,7 +6,28 @@ README.md
 [![Status: Active](https://img.shields.io/badge/Status-Active-success)]()
 [![Community: Growing](https://img.shields.io/badge/Community-Growing-blue)]()
 
-> **"What if inventors didn't have to choose between starvation and selling their souls?"**
+---
+
+## 📍 Start Here
+
+**What is this repository?**  
+This repository defines ethical, licensing, and collaboration structures for independent inventors. It provides templates, guides, and a framework for protecting intellectual property without requiring expensive legal resources.
+
+**Who is this for?**  
+- Independent inventors seeking affordable IP protection
+- Researchers and educators who want open access to innovation
+- Companies interested in fair licensing terms
+- Anyone exploring alternatives to traditional patent systems
+
+**How does this connect to other Phyllux repositories?**  
+- **[biomimetic-inventions-public](https://github.com/phibronotchi-beep/biomimetic-inventions-public)**: Example implementation of this framework (Phyllux Mesh, Wave, Vault, Core)
+- **[phyllux-inventions-wip](https://github.com/phibronotchi-beep/phyllux-inventions-wip)**: Work-in-progress inventions using this framework
+
+**Quick navigation:**
+- New to Phyllux? → Read [What Is This?](#-what-is-this) below, then see [GETTING_STARTED.md](GETTING_STARTED.md)
+- Understanding the philosophy? → See [WHY_PHYLLUX.md](WHY_PHYLLUX.md)
+- Ready to use templates? → See [TEMPLATES/](TEMPLATES/)
+- Exploring the structure? → Enter the [Seed Hub](phyllux-seed/index.md)
 
 ---
 
@@ -71,21 +92,21 @@ The **Phyllux Framework** is a complete IP protection and licensing system desig
 
 ## 🚨 The Problem We're Solving
 
-### Independent Inventors Get Screwed
+### Challenges Facing Independent Inventors
 
-**The current system:**
-- 💸 Patents cost $60K-130K to file (most inventors can't afford this)
-- 🏢 Companies steal ideas from small inventors (no resources to sue)
-- 🧛 Patent trolls buy patents and extract billions (inventors get nothing)
-- 📜 Lawyers take 70%+ of licensing revenue (inventors get scraps)
-- 🤐 "Confidential" agreements silence inventors (can't share with community)
-- ⚖️ Courts favor corporations (inventors lose even when they're right)
+**The current system presents barriers:**
+- 💸 Patents cost $60K-130K to file (most inventors cannot afford this)
+- 🏢 Small inventors often lack resources to enforce their rights
+- 🧛 Patent trolls acquire patents and extract value without contributing
+- 📜 Legal fees consume significant portions of licensing revenue
+- 🤐 Confidentiality agreements can limit knowledge sharing
+- ⚖️ Legal processes favor parties with greater resources
 
 **The result:**
-- 😢 Brilliant inventors starve
-- 🚫 Innovation gets locked away
-- 💰 Only the wealthy can innovate safely
-- 🌍 Humanity loses
+- Many inventors cannot afford protection
+- Innovation may be locked away or underutilized
+- Access to IP protection is limited by financial resources
+- Society may miss beneficial innovations
 
 ### There Has to Be a Better Way
 
@@ -209,31 +230,72 @@ git push origin main
 
 The heart of Phyllux is the **tiered approach** where terms depend on **mission and resources**:
 
-### Tier 1: Pioneer (Best Terms)
-**Who:** Companies risking everything to change the world  
-**Examples:** SpaceX, Neuralink, breakthrough medical startups  
-**Terms:** Low license fee + help with patents = zero royalties  
-**Philosophy:** You're advancing civilization. I want to help, not profit from you.
+### Tier 1: Pioneer
+**Who:** Organizations pursuing civilization-scale missions  
+**Examples:** Multi-planetary ventures, human-AI symbiosis, safe AGI development  
+**Terms:** Minimal upfront fee ($5K-25K) + patent assistance = 0% royalties  
+**Rationale:** Mission success benefits humanity; support provided rather than extracting value
 
-### Tier 2: Mission-Aligned (Fair Terms)
-**Who:** Organizations advancing humanity  
-**Examples:** Medical device companies, research institutions, sustainability ventures  
-**Terms:** $10K-100K license + 1-3% royalty + share improvements  
-**Philosophy:** We prosper together. You help me, I help you, humanity benefits.
+**See also:** [phyllux-seed/tier-1-pioneer.md](phyllux-seed/tier-1-pioneer.md) for detailed terms
 
-### Tier 3: Commercial (Market Rates)
+### Tier 2: Mission-Aligned
+**Who:** Organizations advancing human welfare  
+**Examples:** Medical device companies, climate technology, food security, education tech  
+**Terms:** $10K-100K upfront + 1-3% royalty (tiered by revenue) + improvement sharing  
+**Rationale:** Fair terms based on resources; shared prosperity model
+
+**See also:** [phyllux-seed/tier-2-mission.md](phyllux-seed/tier-2-mission.md) for detailed terms
+
+### Tier 3: Commercial
 **Who:** For-profit companies  
-**Examples:** Large corporations, competitive products  
-**Terms:** $100K-1M license + 3-5% royalty  
-**Philosophy:** You profit from my work. Fair compensation is expected.
+**Examples:** Consumer electronics, telecommunications, general commercial use  
+**Terms:** $100K-1M upfront + 3-5% royalty  
+**Rationale:** Market-rate compensation for commercial use
 
-### Tier 4: Free (No Cost)
+**See also:** [phyllux-seed/tier-3-commercial.md](phyllux-seed/tier-3-commercial.md) for detailed terms
+
+### Tier 4: Free
 **Who:** Non-commercial use  
-**Examples:** Researchers, students, hobbyists, personal projects  
-**Terms:** $0 forever, just cite the work and share knowledge  
-**Philosophy:** Knowledge should be free for those seeking wisdom.
+**Examples:** Universities, researchers, students, hobbyists, personal projects  
+**Terms:** $0 (requires citation and attribution)  
+**Rationale:** Open access for research and education
+
+**See also:** [phyllux-seed/tier-4-free.md](phyllux-seed/tier-4-free.md) for detailed terms
+
+**Canonical reference:** [TEMPLATES/TEMPLATE_License_4Tier.md](TEMPLATES/TEMPLATE_License_4Tier.md) contains the complete licensing model
 
 **See [WHY_PHYLLUX.md](WHY_PHYLLUX.md) for the full philosophy.**
+
+---
+
+## 📚 Canonical Sources
+
+**For authoritative information, refer to these sources:**
+
+**4-Tier Licensing Model:**
+- Complete model: [TEMPLATES/TEMPLATE_License_4Tier.md](TEMPLATES/TEMPLATE_License_4Tier.md)
+- Tier 1 (Pioneer): [phyllux-seed/tier-1-pioneer.md](phyllux-seed/tier-1-pioneer.md)
+- Tier 2 (Mission-Aligned): [phyllux-seed/tier-2-mission.md](phyllux-seed/tier-2-mission.md)
+- Tier 3 (Commercial): [phyllux-seed/tier-3-commercial.md](phyllux-seed/tier-3-commercial.md)
+- Tier 4 (Free): [phyllux-seed/tier-4-free.md](phyllux-seed/tier-4-free.md)
+
+**Prior Art Strategy:**
+- Strategy guide: [phyllux-seed/prior-art-strategy.md](phyllux-seed/prior-art-strategy.md)
+- Template: [TEMPLATES/TEMPLATE_Prior_Art.md](TEMPLATES/TEMPLATE_Prior_Art.md)
+
+**Licensing Negotiation:**
+- Guide: [phyllux-seed/licensing-negotiation.md](phyllux-seed/licensing-negotiation.md)
+- Agreement template: [TEMPLATES/TEMPLATE_License_Agreement.md](TEMPLATES/TEMPLATE_License_Agreement.md)
+
+**Getting Started:**
+- Step-by-step guide: [GETTING_STARTED.md](GETTING_STARTED.md)
+
+**Philosophy and Rationale:**
+- Complete explanation: [WHY_PHYLLUX.md](WHY_PHYLLUX.md)
+
+**Example Implementation:**
+- Real-world example: [PHYLLUX_PROJECT.md](PHYLLUX_PROJECT.md)
+- Repository: [biomimetic-inventions-public](https://github.com/phibronotchi-beep/biomimetic-inventions-public)
 
 ---
 
@@ -336,13 +398,13 @@ The heart of Phyllux is the **tiered approach** where terms depend on **mission 
 A: No. This is a complete IP protection system that includes multiple documents and a tiered licensing model.
 
 **Q: Do I need a lawyer to use this?**  
-A: No for basic setup. Yes for patent filing (or DIY if you're brave). See [guides](GUIDES/).
+A: No for basic setup. Yes for patent filing (or DIY if you're brave). See [GETTING_STARTED.md](GETTING_STARTED.md) for guidance.
 
 **Q: Does public disclosure destroy my patent rights?**  
-A: Not in US/Canada (12-month grace period). Yes in most other countries. See [grace periods guide](LEGAL/Grace_periods_explained.md).
+A: Not in US/Canada (12-month grace period). Yes in most other countries. See [phyllux-seed/prior-art-strategy.md](phyllux-seed/prior-art-strategy.md) for details.
 
 **Q: What if a company uses my tech without licensing?**  
-A: You can pursue contract enforcement. Community can help with defense. See [defending against misuse](GUIDES/How_to_defend_against_trolls.md).
+A: You can pursue contract enforcement. See [phyllux-seed/licensing-negotiation.md](phyllux-seed/licensing-negotiation.md) for guidance.
 
 **Q: Can I customize the tiers?**  
 A: Yes! The templates are starting points. Adapt to your situation. Core philosophy should stay: fair terms based on mission and resources.
@@ -396,7 +458,7 @@ Ways to contribute:
 **Created by:** David Edward Sproule  
 **Location:** Edmonton, Alberta, Canada  
 **Email:** phibronotchi@gmail.com  
-**Inspiration:** Every independent inventor who struggled with the broken IP system
+**Inspiration:** Independent inventors seeking alternatives to traditional IP systems
 
 **With assistance from:** Claude (Anthropic AI)  
 **Philosophy:** "What if innovation enriched everyone, not just a few?"
@@ -427,30 +489,26 @@ Ways to contribute:
 
 ---
 
-## 🌅 Join the Revolution
+## 🌅 How This Framework Is Used In Practice
 
-**This isn't just about protecting inventions.**
+**Example implementation:**  
+David Sproule has used this framework to protect biomimetic inventions (Phyllux Mesh, Wave, Vault, Core). See the [biomimetic-inventions-public](https://github.com/phibronotchi-beep/biomimetic-inventions-public) repository for a complete example.
 
-**This is about proving a different way is possible:**
+**Typical workflow:**
+1. Inventor creates public disclosure using templates (establishes prior art, costs $0)
+2. Researcher uses invention for academic work (Tier 4: Free, with citation)
+3. Mission-aligned company licenses technology (Tier 2: Fair terms based on resources)
+4. Commercial company licenses for broader use (Tier 3: Market rates)
+5. Community benefits from open research access while inventor receives fair compensation
 
-- Inventors don't have to starve or sell out
-- Companies don't have to hoard knowledge
-- Communities can defend each other against misuse
-- Prosperity can be shared, not zero-sum
-- Humans can cooperate at scale
+**Key principles in practice:**
+- Prior art protection enables inventors to establish rights without upfront costs
+- Tiered licensing allows access based on mission and resources
+- Open research access accelerates innovation
+- Fair compensation supports sustainable inventor livelihoods
+- Community coordination provides collective defense
 
-**The Phyllux Framework is a model for 21st-century innovation:**
-
-- Open where it should be (education, research)
-- Protected where needed (against trolls, bad actors)
-- Fair in all things (compensation, access, contribution)
-- Aligned with humanity's flourishing (not just profit)
-
-**If this resonates, you're already part of it.**
-
-**Use this framework. Share what you learn. Help others succeed. Prosper together.**
-
-**That's the revolution.**
+**See also:** [PHYLLUX_PROJECT.md](PHYLLUX_PROJECT.md) for detailed example, [GETTING_STARTED.md](GETTING_STARTED.md) for step-by-step guide
 
 ---
 
@@ -461,8 +519,6 @@ Each contributing to the whole,
 None competing, all thriving—
 
 This is how we build the future.
-
-The light is amplifying.
 
 Welcome to Phyllux.
 ```

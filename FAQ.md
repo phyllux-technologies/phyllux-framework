@@ -113,15 +113,17 @@ See [LEGAL/Grace_periods_explained.md](LEGAL/Grace_periods_explained.md).
 
 ### How do the 4 tiers work?
 
-**Tier 4 (Free):** Research, education, personal use - $0, just cite me
+**Tier 4 (Free):** Research, education, personal use - $0, requires citation
 
-**Tier 2 (Mission-Aligned):** Companies helping humanity - $10K-100K + 1-3% royalty + share improvements
+**Tier 2 (Mission-Aligned):** Organizations advancing human welfare - $10K-100K + 1-3% royalty (tiered) + improvement sharing
 
-**Tier 1 (Pioneer):** World-changing missions (SpaceX, Neuralink) - Low fee + help with patents = zero royalties
+**Tier 1 (Pioneer):** Civilization-scale missions - Minimal fee ($5K-25K) + patent assistance = 0% royalties
 
 **Tier 3 (Commercial):** For-profit companies - $100K-1M + 3-5% royalty
 
 **Customizable:** You can adjust fees/royalties for your situation.
+
+**See also:** [README.md#the-4-tier-licensing-model](README.md#the-4-tier-licensing-model) for overview, [phyllux-seed/](phyllux-seed/) for detailed tier documentation
 
 ### Why would companies pay if it's publicly disclosed?
 
@@ -244,28 +246,27 @@ See [COMMUNITY/How_to_contribute.md](COMMUNITY/How_to_contribute.md).
 
 ### What if I need a patent agent/lawyer?
 
-**See [COMMUNITY/Resources.md](COMMUNITY/Resources.md) for:**
-- Recommended patent agents (affordable, inventor-friendly)
-- Legal clinics (some offer pro bono)
-- Funding sources (grants, crowdfunding)
+**Resources:**
+- See [phyllux-seed/node-13-legal.md](phyllux-seed/node-13-legal.md) for legal frameworks
+- Community resources (when available): Patent agents, legal clinics, funding sources
 
 **Tips:**
-- Get quotes from 3+ agents (prices vary)
+- Get quotes from multiple agents (prices vary)
 - Ask about payment plans (some offer this)
-- DIY provisional patents (save money, file utility later)
+- Consider provisional patents first (lower cost, preserves options)
+- See [GETTING_STARTED.md](GETTING_STARTED.md) for step-by-step guidance
 
 ### Are there examples of inventors using Phyllux?
 
 **Yes!**
 
-**Original implementation:** David Sproule's biomimetic inventions
-- Repository: https://github.com/phibronotchi-beep/biomimetic-inventions-public
+**Example implementation:** David Sproule's biomimetic inventions
+- Repository: [biomimetic-inventions-public](https://github.com/phibronotchi-beep/biomimetic-inventions-public)
 - Technologies: Phyllux Mesh, Phyllux Wave, Phyllux Vault, Phyllux Core
 - Status: Prior art established January 2026 | Patents pending, licenses in negotiation
+- Documentation: See [PHYLLUX_PROJECT.md](PHYLLUX_PROJECT.md) for complete example
 
-**More success stories:** See [COMMUNITY/Success_stories.md](COMMUNITY/Success_stories.md)
-
-*Your story could be here! Submit after you use Phyllux.*
+**See also:** [README.md#how-this-framework-is-used-in-practice](README.md#how-this-framework-is-used-in-practice) for workflow examples
 
 ---
 

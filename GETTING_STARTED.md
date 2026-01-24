@@ -269,12 +269,12 @@ Date: [TODAY'S DATE]
 - Customize tiers if needed (fees, royalties)
 
 **Core Tiers:**
-- Tier 4: Free for non-commercial
-- Tier 1: Pioneer (world-changers)
-- Tier 2: Mission-aligned
-- Tier 3: Commercial
+- **Tier 4 (Free):** Research, education, personal use
+- **Tier 1 (Pioneer):** Civilization-scale missions
+- **Tier 2 (Mission-Aligned):** Organizations advancing human welfare
+- **Tier 3 (Commercial):** Standard for-profit companies
 
-**This is the heart of Phyllux!** It makes licensing fair and easy.
+**See also:** [TEMPLATES/TEMPLATE_License_4Tier.md](../TEMPLATES/TEMPLATE_License_4Tier.md) for complete template, [phyllux-seed/](phyllux-seed/) for detailed tier documentation
 
 ### 3.7 Fill README_template.md
 
@@ -472,7 +472,7 @@ See [LEGAL/Grace_periods_explained.md](../LEGAL/Grace_periods_explained.md) for 
 3. **Mission matters.** Better terms for companies advancing humanity.
 4. **Get it in writing.** Simple 2-3 page agreement is fine.
 
-See [GUIDES/How_to_negotiate_licenses.md](../GUIDES/How_to_negotiate_licenses.md).
+**See also:** [phyllux-seed/licensing-negotiation.md](../phyllux-seed/licensing-negotiation.md) for negotiation guide, [TEMPLATES/TEMPLATE_License_Agreement.md](../TEMPLATES/TEMPLATE_License_Agreement.md) for agreement template
 
 ---
 
@@ -519,19 +519,23 @@ Before you celebrate, verify:
 
 **What now?**
 
-1. **Celebrate!** You just did something 90% of inventors never do.
-2. **Share it!** Tell people about your invention (social media, email, forums).
-3. **Build it!** Continue developing, get feedback, iterate.
-4. **Plan patents** (if you want them, you have 12 months).
-5. **Respond to inquiries** (potential licensees, users, press).
-6. **Help others!** Share your experience with other inventors.
+1. **Share it!** Tell people about your invention (social media, email, forums).
+2. **Build it!** Continue developing, get feedback, iterate.
+3. **Plan patents** (if you want them, you have 12 months).
+4. **Respond to inquiries** (potential licensees, users, press).
+5. **Help others!** Share your experience with other inventors.
 
 **Resources:**
 
-- [How to Build Community](../GUIDES/How_to_build_community.md)
-- [How to Negotiate Licenses](../GUIDES/How_to_negotiate_licenses.md)
-- [How to File Patents](../GUIDES/How_to_file_patents.md)
-- [Community Forum](../COMMUNITY/) (ask questions!)
+- **Licensing negotiation:** [phyllux-seed/licensing-negotiation.md](../phyllux-seed/licensing-negotiation.md)
+- **Prior art strategy:** [phyllux-seed/prior-art-strategy.md](../phyllux-seed/prior-art-strategy.md)
+- **4-Tier licensing:** [README.md#the-4-tier-licensing-model](../README.md#the-4-tier-licensing-model)
+- **FAQ:** [FAQ.md](../FAQ.md)
+- **Philosophy:** [WHY_PHYLLUX.md](../WHY_PHYLLUX.md)
+
+**See also:**
+- [PHYLLUX_PROJECT.md](../PHYLLUX_PROJECT.md) for example implementation
+- [biomimetic-inventions-public](https://github.com/phibronotchi-beep/biomimetic-inventions-public) for real-world example
 
 ---
 
